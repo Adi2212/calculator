@@ -1,7 +1,7 @@
 # Calculator
 
 This project is a simple calculator application built using HTML, CSS, and JavaScript.
-## For demo [Click Here]().
+## For demo [Click Here](https://adi2212.github.io/calculator/).
 ## Features
 
 - Addition
